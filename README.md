@@ -8,9 +8,9 @@ Right now this tool really only supports the `secret`/`kv` backend (version 1 in
 
 ##### Setup
 
-You'll want to `go get -f -u github.com/adamdecaf/vault-backend-migrator` this project. It will pull down the vault source code to your GOPATH too.
+You'll want to `go get -f -u github.com/santieich/vault-backend-migrator` this project. It will pull down the vault source code to your GOPATH too.
 
-There's also a [docker image](https://hub.docker.com/r/adamdecaf/vault-backend-migrator): `docker pull adamdecaf/vault-backend-migrator`
+There's also a [docker image](https://hub.docker.com/r/santieich/vault-backend-migrator): `docker pull santieich/vault-backend-migrator`
 
 ##### Exporting
 

@@ -1,4 +1,4 @@
-module github.com/adamdecaf/vault-backend-migrator
+module github.com/santieich/vault-backend-migrator
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
@@ -69,3 +69,5 @@ require (
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 	gotest.tools v2.1.0+incompatible // indirect
 )
+
+go 1.13
